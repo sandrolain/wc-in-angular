@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('../node_modules/@shoelace-style/shoelace/dist/themes/light.css');
+
+:root {
+
+  --sl-color-primary-50: rgb(254 248 248);
+  --sl-color-primary-100: rgb(251 232 232);
+  --sl-color-primary-200: rgb(249 214 214);
+  --sl-color-primary-300: rgb(245 194 194);
+  --sl-color-primary-400: rgb(241 167 167);
+  --sl-color-primary-500: rgb(235 129 129);
+  --sl-color-primary-600: rgb(228 82 82);
+  --sl-color-primary-700: rgb(213 26 26);
+  --sl-color-primary-800: rgb(177 22 22);
+  --sl-color-primary-900: rgb(128 16 16);
+  --sl-color-primary-950: rgb(81 10 10);
+
+}
